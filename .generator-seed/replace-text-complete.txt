@@ -1,0 +1,4 @@
+repo=cloud-node-provider-test-app
+branch=main
+source_commit=6ba739fb32b1ff71604502a2ba1e63417c46fce7
+completed_at=2026-06-05T18:30:54Z
