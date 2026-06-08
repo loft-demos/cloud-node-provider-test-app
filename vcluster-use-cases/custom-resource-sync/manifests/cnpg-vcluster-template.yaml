@@ -8,7 +8,6 @@ spec:
     metadata:
       labels:
         loft.sh/import-argocd: 'true'
-    objects: {}
     access:
       rules:
         - teams:
