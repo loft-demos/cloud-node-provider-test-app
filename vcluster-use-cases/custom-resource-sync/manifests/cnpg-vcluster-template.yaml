@@ -17,7 +17,7 @@ spec:
       enabled: true
     helmRelease:
       chart:
-        version: 0.35.0-rc.2
+        version: 0.34.3
       values: |-
         sleep:
           auto:
